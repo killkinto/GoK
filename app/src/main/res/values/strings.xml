@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoK</string>
+    <string name="welcome">Olá, Fernando</string>
+    <string name="products">Produtos</string>
+</resources>
